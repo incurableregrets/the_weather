@@ -1,0 +1,21 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #B0C4DE;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #FDF5E6;
+    text-align: center;
+}
+
+h1 {
+    color: #191970;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 400px;
+}
